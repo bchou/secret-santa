@@ -19,5 +19,5 @@
 
 # Notes:
 	-when running from the start, make sure the already_picked.txt file does not exist
-	-if output returns NULL, run again
-	-secret_santa_data.txt will have to be appended manually
+	-make sure secret_santa_data.txt is up-to-date
+	-secret_santa_data.txt will have to be appended manually after completion of runs
