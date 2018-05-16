@@ -26,7 +26,7 @@
 # ID - Names
 # 0 - The Brain
 # 1 - TinayXD
-# 2 - Pinky
+# 2 - Blue Beanie Big Meanie
 # 3 - Dabrina
 # 4 - Michelle
 # 5 - Ken
@@ -43,7 +43,7 @@ import os
 
 user_id = int(sys.argv[1])
 num_years = int(sys.argv[2])
-names = ['The Brain','TinayXD','Pinky','Dabrina','Michelle','Ken','Mickey','Kendal','Quesadiila','Brando','Van Christopher']
+names = ['The Brain','TinayXD','Blue Beanie Big Meanie','Dabrina','Michelle','Ken','Mickey','Kendal','Quesadiila','Brando','Van Christopher']
 flag = 1
 
 list = []
