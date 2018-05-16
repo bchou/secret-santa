@@ -1,10 +1,10 @@
 ##################################################################################
 ##################################################################################
-Program: Secret santa generator
+#Program: Secret santa generator
 
-Purpose: Randomly draw names without drawing previously drawn names from current year or any other year
+#Purpose: Randomly draw names without drawing previously drawn names from current year or any other year
 
-Inputs:
+#Inputs:
 			user_id = refer to block comment below for user_id
 			secret_santa_year = 3,4,5,...,n (this next year will be 4)
 
