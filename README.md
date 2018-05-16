@@ -1,11 +1,11 @@
 # Program:
-	Secret santa generator
+	Secret Santa generator
 
 # Purpose: 
 	Randomly draw names without drawing previously drawn names from current year or any other year
 
 # Inputs:
-	user_id = refer to block comment below for user_id
+	user_id = refer to secret_santa_data.txt for user ID
 	secret_santa_year = 3,4,5,...,n (this next year will be 4)
 
 # Outputs: 
